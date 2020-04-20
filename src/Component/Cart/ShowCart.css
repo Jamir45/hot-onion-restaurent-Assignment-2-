@@ -1,0 +1,12 @@
+.checkout {
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 20px;
+    border: 1px solid #8d6064;
+    background-color: #faf0d6;
+    transition: all 0.5s;
+}
+.checkout:hover{
+    background-color: rgb(25, 40, 51);
+    color: white;
+}
